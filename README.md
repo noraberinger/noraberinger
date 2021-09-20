@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning Java and started working with NumPy and matplotlib
+
 <!--
 **noraberinger/noraberinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
