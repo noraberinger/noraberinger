@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning Java and started working with NumPy and matplotlib
-- ✨ Experience with following Programming languages: Python, C, Java
+- ✨ Programming Experience with Python, C and Java
 
 <!--
 **noraberinger/noraberinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
