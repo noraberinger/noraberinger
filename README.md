@@ -4,14 +4,14 @@
 
 ![C++](https://img.shields.io/badge/C++-Intermediate-brightgreen)
 ![Python](https://img.shields.io/badge/Python-Intermediate-brightgreen)
-![TypeScript](https://img.shields.io/badge/TypeScript-Beginner-orange)
+![TypeScript](https://img.shields.io/badge/TypeScript-Beginner-red)
 ![ARM Assembly](https://img.shields.io/badge/ARM%20Assembly-Beginner-red)
-![JAVA](https://img.shields.io/badge/JAVA-Beginner-orange)
+![JAVA](https://img.shields.io/badge/JAVA-Beginner-red)
 
 ### OS Experience
 
 ![Linux](https://img.shields.io/badge/C++-Daily-brightgreen)
-![Windows](https://img.shields.io/badge/C++-Daily-brightgreen)
+![Windows](https://img.shields.io/badge/C++-Experience-brightgreen)
 
 
 
