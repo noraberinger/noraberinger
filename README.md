@@ -3,22 +3,13 @@
 - 🌱 I’m currently learning Java and started working with NumPy and matplotlib
 - ✨ Programming Experience with Python and C
 
-### Programming Experience
+### Programming Skills
 
-**C++**  
-<div style="width: 100%; background: lightgray;">
-  <div style="width: 60%; background: #4CAF50; padding: 2px; color: white; text-align: center;">2 yrs.</div>
-</div>
+![C++](https://img.shields.io/badge/C++-Experienced-brightgreen)
+![Python](https://img.shields.io/badge/Python-Intermediate-blue)
+![TypeScript](https://img.shields.io/badge/TypeScript-Beginner-orange)
+![ARM Assembly](https://img.shields.io/badge/ARM%20Assembly-Beginner-red)
 
-**Python**  
-<div style="width: 100%; background: lightgray;">
-  <div style="width: 60%; background: #4CAF50; padding: 2px; color: white; text-align: center;">2 yrs.</div>
-</div>
-
-**TypeScript**  
-<div style="width: 100%; background: lightgray;">
-  <div style="width: 20%; background: #4CAF50; padding: 2px; color: white; text-align: center;">1 yr.</div>
-</div>
 
 
 <!--
