@@ -1,14 +1,17 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Java and started working with NumPy and matplotlib
-- ✨ Programming Experience with Python and C
+### Programming Skills 🌱
 
-### Programming Skills
-
-![C++](https://img.shields.io/badge/C++-Experienced-brightgreen)
-![Python](https://img.shields.io/badge/Python-Intermediate-blue)
+![C++](https://img.shields.io/badge/C++-Intermediate-brightgreen)
+![Python](https://img.shields.io/badge/Python-Intermediate-brightgreen)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Beginner-orange)
 ![ARM Assembly](https://img.shields.io/badge/ARM%20Assembly-Beginner-red)
+![JAVA](https://img.shields.io/badge/JAVA-Beginner-orange)
+
+### OS Experience
+
+![Linux](https://img.shields.io/badge/C++-Daily-brightgreen)
+![Windows](https://img.shields.io/badge/C++-Daily-brightgreen)
 
 
 
