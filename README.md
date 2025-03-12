@@ -10,8 +10,8 @@
 
 ### OS Experience
 
-![Linux](https://img.shields.io/badge/C++-Daily_User-brightgreen)
-![Windows](https://img.shields.io/badge/C++-First_OS_used-brightgreen)
+![Linux](https://img.shields.io/badge/Linux-Daily_User-brightgreen)
+![Windows](https://img.shields.io/badge/Windows-First_OS_used-brightgreen)
 
 
 
